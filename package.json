@@ -1,25 +1,14 @@
 {
-  "name": "readme-generator",
+  "name": "static-site",
   "version": "1.0.0",
-  "description": "Professional ReadMe Generator",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jaya1983/readme-generator.git"
-  },
-  "keywords": [
-    "ReadMe"
-  ],
-  "author": "Jaya",
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/jaya1983/readme-generator/issues"
-  },
-  "homepage": "https://github.com/jaya1983/readme-generator#readme",
   "dependencies": {
-    "inquirer": "^8.1.2"
+    "inquirer": "^6.3.1"
   }
 }
