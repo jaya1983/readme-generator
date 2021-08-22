@@ -18,7 +18,7 @@ function renderLicenseLink(license) {
   return ''
 }
 
-// TODO: Create a function that returns the license section of README
+// Create a function that returns the license section of README
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
   if (license !== "None") {
@@ -30,7 +30,7 @@ function renderLicenseSection(license) {
   return "";
 }
 
-// TODO: Create a function to generate markdown for README
+// Create a function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.title}
   ${renderLicenseBadge(data.license)}
@@ -48,9 +48,18 @@ ${renderLicenseLink(data.license)}
 * [Test](#test)
 
 ## Installations  💻
-To Install dependencies run these commands 
+To Install dependencies run these commands \n
 ${data.dependencies}
 
+## Usage Information 🏆
+To begin the question prompts, in the driectory containing this project, from the command line run node index.js.\n Answer all of the following questions, when complete the README.md file will be generated in the current directory.
+
+## Contributors  😃
+${data.contributors}
+
+
+## Tests
+${data.test}
 `;
 }
 
