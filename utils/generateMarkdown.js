@@ -46,6 +46,11 @@ ${data.description}
 ${renderLicenseLink(data.license)}
 * [Contributors](#contributors)
 * [Test](#test)
+
+## Installations  💻
+To Install dependencies run these commands 
+${data.dependencies}
+
 `;
 }
 
