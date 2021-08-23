@@ -68,8 +68,8 @@ ${data.contributors}
 ${data.test}
 
 ## Questions
-For questions about this project, please see my GitHub at ${data.github} OR \n
-Contact me at ${data.email}
+For questions about this project, please see my GitHub at [${data.github}](https://github.com/${data.github})  (Or) \n
+Contact me at ${data.email}.
 `;
 }
 

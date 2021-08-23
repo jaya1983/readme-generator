@@ -37,6 +37,6 @@ dsd
 npm run test
 
 ## Questions
-For questions about this project, please see my GitHub at swetha21 OR 
+For questions about this project, please see my GitHub at [${data.github}](https://github.com/${data.github}) OR 
 
-Contact me at jaya
+Contact me at [${data.email}](https://github.com/${data.email})
