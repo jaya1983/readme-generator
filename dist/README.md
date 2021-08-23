@@ -1,11 +1,11 @@
-# fgfdg
-  ![License](https://img.shields.io/badge/license-MIT-yellowgreen.svg)
+# Professional ReadMe Generator
+  ![License](https://img.shields.io/badge/license-Boost1.0-yellowgreen.svg)
 
   ## Github URL 🌐
-[vf](https://github.com/vf/)
+[jaya1983](https://github.com/jaya1983/)
 
 ## Description 📝
-dfd
+this is used to create a ReadMe file with answers provided by the user
   
 ## Table of Contents 🗒
 * [Installation](#installation)
@@ -22,7 +22,7 @@ dfd
 
 To Install dependencies run these commands 
 
-f
+npm install inquirer
 
 ## Usage
 
@@ -34,14 +34,14 @@ To begin the question prompts, in the driectory containing this project, from th
 
 
 
-    Copyright © MIT 📛. All rights reserved. 
+    Copyright © Boost1.0 📛. All rights reserved. 
       
-    Licensed under the MIT license 📛.
+    Licensed under the Boost1.0 license 📛.
 
 ## Contributors 
  
 
-fdg
+Jaya Gudipalli
 
 ## Tests
 
@@ -50,6 +50,6 @@ npm run test
 
 ## Questions
 
-For questions about this project, please see my GitHub at [vf](https://github.com/vf)  (Or) 
+For questions about this project, please see my GitHub at [jaya1983](https://github.com/jaya1983)  (Or) 
 
-Contact me at ffgfd.
+Contact me at jaya.vedantam@gmail.com

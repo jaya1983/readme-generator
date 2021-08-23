@@ -81,8 +81,8 @@ ${data.test}
 
 ${questionInfo}\n
 For questions about this project, please see my GitHub at [${data.github}](https://github.com/${data.github})  (Or) \n
-Contact me at ${data.email}.
-`;
+Contact me at ${data.email}`
+;
 }
 
 
