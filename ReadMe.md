@@ -29,11 +29,11 @@ A Node.js based tool where users can use to generate read me for their repo proj
 
 
 ## Screenshots
-![](assets/img/terminal-vscode.png)
+![](assets/images/index_screenshot.png)
 
-![](assets/img/readme-vscode.png)
+![](assets/images/markdown_screenshot.png)
 
-![](assets/img/ready-readme.png)
+![](assets/images/github_screenshot.png)
 
 ## Technologies Use
 <p><a href="https://nodejs.org/">Node.js</a></p>
