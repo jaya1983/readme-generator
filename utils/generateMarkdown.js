@@ -32,7 +32,7 @@ function renderLicenseSection(license) {
 
 // Create a function to generate markdown for README
 function generateMarkdown(data) {
-  const installHead = "## Installation";
+
   return `# ${data.title}
   ${renderLicenseBadge(data.license)}
 
@@ -48,7 +48,7 @@ ${renderLicenseLink(data.license)}
 * [Contributors](#contributors)
 * [Test](#test)
 
-${installHead}  💻
+## Installation  💻
 To Install dependencies run these commands \n
 ${data.dependencies}
 
