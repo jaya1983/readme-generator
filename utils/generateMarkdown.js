@@ -49,7 +49,7 @@ ${data.description}
 * [Usage](#usage)
 ${renderLicenseLink(data.license)}
 * [Contributors](#contributors)
-* [Test](#test)
+* [Tests](#tests)
 
 ## Installation  💻
 To Install dependencies run these commands \n
@@ -68,7 +68,7 @@ ${data.contributors}
 ${data.test}
 
 ## Questions
-For questions about this project, please see my GitHub at ${data.github} OR
+For questions about this project, please see my GitHub at ${data.github} OR \n
 Contact me at ${data.email}
 `;
 }

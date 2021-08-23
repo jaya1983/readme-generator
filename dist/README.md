@@ -1,10 +1,10 @@
-# gergtr
-  ![License: MIT](https://img.shields.io/badge/license-GPL3.0-yellowgreen.svg)
+# fdsf
+  ![License: MIT](https://img.shields.io/badge/license-Boost1.0-yellowgreen.svg)
 
   ## Github URL 🌐
-[gtrgtg](https://github.com/gtrgtg/)
+[swetha21](https://github.com/swetha21/)
 ## Description 📝
-vfe
+ddsa
   
 ## Table of Contents 🗒
 * [Installation](#installation)
@@ -13,29 +13,30 @@ vfe
 * [License](#license)
 
 * [Contributors](#contributors)
-* [Test](#test)
+* [Tests](#tests)
 
 ## Installation  💻
 To Install dependencies run these commands 
 
-rgreg
+npm i
 
 ## Usage Information 🏆
 To begin the question prompts, in the driectory containing this project, from the command line run node index.js.
  Answer all of the following questions, when complete the README.md file will be generated in the current directory.
 
 ## License 📛
-      Copyright © GPL3.0. All rights reserved. 
+      Copyright © Boost1.0. All rights reserved. 
       
-      Licensed under the GPL3.0 license.
+      Licensed under the Boost1.0 license.
 
 ## Contributors  😃
-greger
+dsd
 
 
 ## Tests
-reger
+npm run test
 
 ## Questions
-For questions about this project, please see my GitHub at gtrgtg OR
-Contact me at grgrtg
+For questions about this project, please see my GitHub at swetha21 OR 
+
+Contact me at jaya
