@@ -37,7 +37,7 @@ function renderLicenseSection(license) {
 // Create a function to generate markdown for README
 function generateMarkdown(data) {
 
-  const install = `## Installation 💻`;
+  const install = `## Installation`;
   const usageInfo = `## Usage`;
   const licenseInfo = `## License`;
   const contributorInfo = `## Contributors`;
