@@ -1,10 +1,11 @@
-# Generate a professional ReadMe Markdown file
-  ![License: MIT](https://img.shields.io/badge/license-BSD3-yellowgreen.svg)
+# fgfdg
+  ![License](https://img.shields.io/badge/license-MIT-yellowgreen.svg)
 
   ## Github URL 🌐
-[jaya1983](https://github.com/jaya1983/)
+[vf](https://github.com/vf/)
+
 ## Description 📝
-generates a file
+dfd
   
 ## Table of Contents 🗒
 * [Installation](#installation)
@@ -16,31 +17,31 @@ generates a file
 * [Tests](#tests)
 * [Questions](#questions)
 
-## Installation 💻 
+## Installation 
 
 
 To Install dependencies run these commands 
 
-npm install inquirer
+f
 
 ## Usage
 
 
-To begin the question prompts, in the driectory containing this project, from the command line run node index.js.
- Answer all of the following questions, when complete the README.md file will be generated in the current directory.
+To begin the question prompts, in the driectory containing this project, from the command line run node index.
+ Answer all of the following questions, when complete the README.md file will be generated in the dist directory.
 
 ## License
 
 
 
-      Copyright © BSD3. All rights reserved. 
+    Copyright © MIT 📛. All rights reserved. 
       
-      Licensed under the BSD3 license.
+    Licensed under the MIT license 📛.
 
 ## Contributors 
  
 
-jaya
+fdg
 
 ## Tests
 
@@ -49,6 +50,6 @@ npm run test
 
 ## Questions
 
-For questions about this project, please see my GitHub at [jaya1983](https://github.com/jaya1983)  (Or) 
+For questions about this project, please see my GitHub at [vf](https://github.com/vf)  (Or) 
 
-Contact me at jaya.bedantam@gmail.com.
+Contact me at ffgfd.

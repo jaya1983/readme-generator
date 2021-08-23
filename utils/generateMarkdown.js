@@ -1,16 +1,13 @@
-// TODO: Create a function that returns a license badge based on which license is passed in
-
-const { fetchAsyncQuestionPropertyQuestionProperty } = require("inquirer/lib/utils/utils");
-
+// Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
   if (license !== "None") {
-    return `![License: MIT](https://img.shields.io/badge/license-${license}-yellowgreen.svg)`;
+    return `![License](https://img.shields.io/badge/license-${license}-yellowgreen.svg)`;
   }
   return "";
 }
 
-// TODO: Create a function that returns the license link
+// Create a function that returns the license link
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
   if (license !== "None") {
@@ -27,9 +24,9 @@ function renderLicenseSection(license) {
 
    if (license !== "None") {
     return `
-      Copyright © ${license}. All rights reserved. 
+    Copyright © ${license} 📛. All rights reserved. 
       
-      Licensed under the ${license} license.`;
+    Licensed under the ${license} license 📛.`;
   }
   return "";
 }
@@ -49,6 +46,7 @@ function generateMarkdown(data) {
 
   ## Github URL 🌐
 [${data.github}](https://github.com/${data.github}/)
+
 ## Description 📝
 ${data.description}
   
@@ -67,7 +65,7 @@ ${data.dependencies}
 
 ${usageInfo}\n
 
-To begin the question prompts, in the driectory containing this project, from the command line run node index.js.\n Answer all of the following questions, when complete the README.md file will be generated in the current directory.
+To begin the question prompts, in the driectory containing this project, from the command line run node index.\n Answer all of the following questions, when complete the README.md file will be generated in the dist directory.
 
 ${licenseInfo}\n
 
