@@ -45,11 +45,12 @@ function generateMarkdown(data) {
 ${data.description}
   
 ## Table of Contents 🗒
-* [Installation](#installation)
+* [Installation](#user-content-installation)
 * [Usage](#usage)
 ${renderLicenseLink(data.license)}
 * [Contributors](#contributors)
 * [Tests](#tests)
+* [Questions](user-content-questions)
 
 ## Installation  💻
 To Install dependencies run these commands \n
