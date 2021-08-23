@@ -29,13 +29,10 @@ A Node.js based tool where users can use to generate read me for their repo proj
 
 
 ## Screenshots
-![](assets/images/index_screenshot.png)
+![Capture](index_screenshot.png)
 
-![](assets/images/markdown_screenshot.png)
 
-![](assets/images/github_screenshot.png)
-
-## Technologies Use
+## Technologies Used
 <p><a href="https://nodejs.org/">Node.js</a></p>
 <p><a href="https://www.npmjs.com/">NPM</a></p>
 <p><a href="https://www.npmjs.com/package/inquirer">Inquirer.js</a></p>
