@@ -1,10 +1,10 @@
-# read me
-  ![License: MIT](https://img.shields.io/badge/license-GPL3.0-yellowgreen.svg)
+# Generate a professional ReadMe Markdown file
+  ![License: MIT](https://img.shields.io/badge/license-BSD3-yellowgreen.svg)
 
   ## Github URL 🌐
 [jaya1983](https://github.com/jaya1983/)
 ## Description 📝
-generates a professional readme markdown file
+generates a file
   
 ## Table of Contents 🗒
 * [Installation](#installation)
@@ -14,29 +14,41 @@ generates a professional readme markdown file
 
 * [Contributors](#contributors)
 * [Tests](#tests)
+* [Questions](#questions)
 
-## Installation  💻
+## Installation 💻 
+
+
 To Install dependencies run these commands 
 
-npm i
+npm install inquirer
 
-## Usage Information 🏆
+## Usage
+
+
 To begin the question prompts, in the driectory containing this project, from the command line run node index.js.
  Answer all of the following questions, when complete the README.md file will be generated in the current directory.
 
-## License 📛
-      Copyright © GPL3.0. All rights reserved. 
+## License
+
+
+
+      Copyright © BSD3. All rights reserved. 
       
-      Licensed under the GPL3.0 license.
+      Licensed under the BSD3 license.
 
-## Contributors  😃
-dsfs
+## Contributors 
+ 
 
+jaya
 
 ## Tests
+
+
 npm run test
 
 ## Questions
+
 For questions about this project, please see my GitHub at [jaya1983](https://github.com/jaya1983)  (Or) 
 
-Contact me at jaya.vedantam@gmail.com.
+Contact me at jaya.bedantam@gmail.com.

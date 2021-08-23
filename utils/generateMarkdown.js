@@ -24,8 +24,9 @@ function renderLicenseLink(license) {
 // Create a function that returns the license section of README
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
-  if (license !== "None") {
-    return `## License 📛
+
+   if (license !== "None") {
+    return `
       Copyright © ${license}. All rights reserved. 
       
       Licensed under the ${license} license.`;
@@ -36,6 +37,13 @@ function renderLicenseSection(license) {
 // Create a function to generate markdown for README
 function generateMarkdown(data) {
 
+  const install = `## Installation 💻`;
+  const usageInfo = `## Usage`;
+  const licenseInfo = `## License`;
+  const contributorInfo = `## Contributors`;
+  const testInstructions = `## Tests`;
+  const questionInfo = `## Questions`;
+
   return `# ${data.title}
   ${renderLicenseBadge(data.license)}
 
@@ -45,30 +53,35 @@ function generateMarkdown(data) {
 ${data.description}
   
 ## Table of Contents 🗒
-* [Installation](#user-content-installation)
+* [Installation](#installation)
 * [Usage](#usage)
 ${renderLicenseLink(data.license)}
 * [Contributors](#contributors)
 * [Tests](#tests)
-* [Questions](user-content-questions)
+* [Questions](#questions)
 
-## Installation  💻
+${install} \n
+
 To Install dependencies run these commands \n
 ${data.dependencies}
 
-## Usage Information 🏆
+${usageInfo}\n
+
 To begin the question prompts, in the driectory containing this project, from the command line run node index.js.\n Answer all of the following questions, when complete the README.md file will be generated in the current directory.
+
+${licenseInfo}\n
 
 ${renderLicenseSection(data.license)}
 
-## Contributors  😃
+${contributorInfo} \n 
+
 ${data.contributors}
 
+${testInstructions}\n
 
-## Tests
 ${data.test}
 
-## Questions
+${questionInfo}\n
 For questions about this project, please see my GitHub at [${data.github}](https://github.com/${data.github})  (Or) \n
 Contact me at ${data.email}.
 `;
