@@ -29,7 +29,7 @@ A Node.js based tool where users can use to generate read me for their repo proj
 
 
 ## Screenshots
-![](index_screenshot.png)
+![](assets/index_screenshot.png)
 
 ![](assets/markdown_screenshot.png)
 
