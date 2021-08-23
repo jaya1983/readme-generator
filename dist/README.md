@@ -1,10 +1,10 @@
-# fdsf
-  ![License: MIT](https://img.shields.io/badge/license-Boost1.0-yellowgreen.svg)
+# read me
+  ![License: MIT](https://img.shields.io/badge/license-GPL3.0-yellowgreen.svg)
 
   ## Github URL 🌐
-[swetha21](https://github.com/swetha21/)
+[jaya1983](https://github.com/jaya1983/)
 ## Description 📝
-ddsa
+generates a professional readme markdown file
   
 ## Table of Contents 🗒
 * [Installation](#installation)
@@ -25,18 +25,18 @@ To begin the question prompts, in the driectory containing this project, from th
  Answer all of the following questions, when complete the README.md file will be generated in the current directory.
 
 ## License 📛
-      Copyright © Boost1.0. All rights reserved. 
+      Copyright © GPL3.0. All rights reserved. 
       
-      Licensed under the Boost1.0 license.
+      Licensed under the GPL3.0 license.
 
 ## Contributors  😃
-dsd
+dsfs
 
 
 ## Tests
 npm run test
 
 ## Questions
-For questions about this project, please see my GitHub at [${data.github}](https://github.com/${data.github}) OR 
+For questions about this project, please see my GitHub at [jaya1983](https://github.com/jaya1983)  (Or) 
 
-Contact me at [${data.email}](https://github.com/${data.email})
+Contact me at jaya.vedantam@gmail.com.
