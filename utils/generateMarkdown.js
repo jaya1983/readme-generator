@@ -55,6 +55,10 @@ ${data.dependencies}
 ## Usage Information 🏆
 To begin the question prompts, in the driectory containing this project, from the command line run node index.js.\n Answer all of the following questions, when complete the README.md file will be generated in the current directory.
 
+
+## License 📛
+${renderLicenseSection(data.license)}
+
 ## Contributors  😃
 ${data.contributors}
 
