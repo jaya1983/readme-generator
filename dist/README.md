@@ -1,13 +1,13 @@
-# efewfwe
-  ![License: MIT](https://img.shields.io/badge/license-Boost1.0-yellowgreen.svg)
+# tgtrg
+  ![License: MIT](https://img.shields.io/badge/license-BSD2-yellowgreen.svg)
 
   ## Github URL 🌐
-[efew](https://github.com/efew/)
+[gtg](https://github.com/gtg/)
 ## Description 📝
-efewf
+tgrt
   
 ## Table of Contents 🗒
-* [Installations](#installation)
+* [Installation](#installation)
 * [Usage](#usage)
 
 * [License](#license)
@@ -15,18 +15,18 @@ efewf
 * [Contributors](#contributors)
 * [Test](#test)
 
-## Installations  💻
+## Installation  💻
 To Install dependencies run these commands 
 
-efew
+grgrg
 
 ## Usage Information 🏆
 To begin the question prompts, in the driectory containing this project, from the command line run node index.js.
  Answer all of the following questions, when complete the README.md file will be generated in the current directory.
 
 ## Contributors  😃
-fwe
+rgrt
 
 
 ## Tests
-ewfew
+grg
